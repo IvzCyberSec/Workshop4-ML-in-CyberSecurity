@@ -1,4 +1,4 @@
-# BCU Computing Society — ML in Cybersecurity
+# BCU Computing Society - ML in Cybersecurity
 
 ## Can AI Detect a Suspicious Login?
 
