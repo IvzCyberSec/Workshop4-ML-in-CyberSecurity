@@ -197,12 +197,12 @@ Example prompt:
 
 ## Further learning
 
-- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) — an interactive way to experience gathering examples, training a model and testing it.
-- [Code.org: “AI: What is Machine Learning?”](https://code.org/en-US/curriculum/how-artificial-intelligence-works) — a beginner-friendly video in its “How AI Works” series; the same page includes a separate video on training data and bias.
-- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) — an interactive gather → train → test activity. Students can see how changing the examples affects classification.
-- [Google Cloud: What is Machine Learning?](https://cloud.google.com/learn/what-is-machine-learning) — a clear written overview of AI, ML, supervised learning and unsupervised learning.
-- [scikit-learn Decision Tree documentation](https://scikit-learn.org/stable/modules/tree.html) — reference for the classifier used in the notebook.
-- [GreenCode videos](https://greencode.ai/videos/) — optional wider context on energy-efficient computing. These videos focus on decarbonising computing, not on explaining the fundamentals of ML, so they are not the core teaching resource.
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - an interactive way to experience gathering examples, training a model and testing it.
+- [Code.org: “AI: What is Machine Learning?”](https://code.org/en-US/curriculum/how-artificial-intelligence-works) - a beginner-friendly video in its “How AI Works” series; the same page includes a separate video on training data and bias.
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/) - an interactive gather → train → test activity. Students can see how changing the examples affects classification.
+- [Google Cloud: What is Machine Learning?](https://cloud.google.com/learn/what-is-machine-learning) - a clear written overview of AI, ML, supervised learning and unsupervised learning.
+- [scikit-learn Decision Tree documentation](https://scikit-learn.org/stable/modules/tree.html) - reference for the classifier used in the notebook.
+- [GreenCode videos](https://greencode.ai/videos/) - optional wider context on energy-efficient computing. These videos focus on decarbonising computing, not on explaining the fundamentals of ML, so they are not the core teaching resource.
 
 
 **BCU Computing Society · Cybersecurity Workshop**
