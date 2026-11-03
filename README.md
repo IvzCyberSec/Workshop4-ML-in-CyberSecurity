@@ -204,17 +204,5 @@ Example prompt:
 - [scikit-learn Decision Tree documentation](https://scikit-learn.org/stable/modules/tree.html) — reference for the classifier used in the notebook.
 - [GreenCode videos](https://greencode.ai/videos/) — optional wider context on energy-efficient computing. These videos focus on decarbonising computing, not on explaining the fundamentals of ML, so they are not the core teaching resource.
 
-## Workshop schedule
-
-| Time | Activity |
-|---|---|
-| 14:00–14:10 | Welcome and introduction |
-| 14:10–14:20 | Explain the challenge and show the suspicious-login scenario |
-| 14:20–15:20 | Guided Google Colab practical |
-| 15:20–15:35 | Audience challenge: confuse the model |
-| 15:35–15:50 | Questions, discussion and recap |
-| 15:50–16:00 | Feedback and close |
-
----
 
 **BCU Computing Society · Cybersecurity Workshop**
